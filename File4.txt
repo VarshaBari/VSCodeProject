@@ -1,2 +1,4 @@
+This is File4 with marge conflict ex 
+i am abcd
 This is File4 with marge conflict ex
 Testing marge conflict.
